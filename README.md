@@ -114,3 +114,7 @@ build.cmd             一键构建脚本
 .gitignore            构建产物与本地文件忽略规则
 dist/MineCraftDownloadTool.exe 构建产物（单文件）
 ```
+
+## 声明
+
+本工具由deep seek v4.1flash 1017生成
