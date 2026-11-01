@@ -1,7 +1,8 @@
 # MineCraftDownloadTool（MCDT）
 
-MineCraftDownloadTool 是一个轻量的 Minecraft 资源下载工具。单个 exe，双击即用，不依赖启动器，也不需要登录账号
-从发行版里下载哦
+MineCraftDownloadTool 是一个轻量的 Minecraft 资源下载工具。单个 exe，双击即用，不依赖启动器，也不需要登录账号  
+
+从发行版里下载
 
 ## 功能
 
